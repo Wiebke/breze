@@ -2,6 +2,7 @@
 docs/build/*
 cover/*
 *.pyc
+*.egg-info
 notebooks/.ipynb*
 notebooks/*pickle
 .coverage
